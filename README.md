@@ -1,6 +1,10 @@
 # ¿Cómo usar?
 
+<<<<<<< HEAD
 ```import ListaServicios from "@lcmconsultoria/componente-servicios"```
+=======
+```import ListaServicios from "componente-servicios"```
+>>>>>>> bef2e7180ca31abdedfb9e5cb3db30488619f9a1
 
 ```
 const listaServicios = [
@@ -23,6 +27,11 @@ const listaServicios = [
       imagenlink: "nolink",
     },
   ];
+<<<<<<< HEAD
 ```
 
   ```<ListaServicios servicios={listaServicios} />```
+=======
+  ```
+```<ListaServicios servicios={listaServicios} />```
+>>>>>>> bef2e7180ca31abdedfb9e5cb3db30488619f9a1
