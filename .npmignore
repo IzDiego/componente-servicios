@@ -1,7 +1,10 @@
-App.css
-App.test.js
-index.css
-logo.svg
-reportWebVitals.js
-setupTest.js
-index.js
+./App.css
+./App.test.js
+./index.css
+./logo.svg
+./reportWebVitals.js
+./setupTest.js
+./index.js
+
+/public/
+/node_modules/
