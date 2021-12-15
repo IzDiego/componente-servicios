@@ -12,8 +12,6 @@ import {
 } from "@mui/material";
 
 export default function ListaServicios(servicios) {
-  const tamanoh = 300;
-
   const getServicesDisplay = () => {
     let tarjetas = [];
     servicios.forEach((servicio) => {

@@ -4,10 +4,14 @@
   "description": "Componente que crea tarjetas de servicios",
   "private": false,
   "author": "Diego Isaac",
-  "main": "/src/index.js",
+  "main": "/src/App.js",
   "files": [
     "src/**/*"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzDiego/componente-servicios.git"
+  },
   "devDependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
