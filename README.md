@@ -1,8 +1,9 @@
 # ¿Cómo usar?
 
-import ListaServicios from "componente-servicios"
+```import ListaServicios from "componente-servicios"```
 
-´´´'''const listaServicios = [
+```
+const listaServicios = [
     {
       titulo: "MUI",
       contenido: "Lorem ipsum",
@@ -22,6 +23,5 @@ import ListaServicios from "componente-servicios"
       imagenlink: "nolink",
     },
   ];
-
-  <ListaServicios servicios={listaServicios} />
-'''´´´
+  ```
+```<ListaServicios servicios={listaServicios} />```
