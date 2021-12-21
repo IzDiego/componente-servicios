@@ -1,10 +1,10 @@
 {
   "name": "@lcmconsultoria/componente-servicios",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Componente que crea tarjetas de servicios",
   "private": false,
   "author": "Diego Isaac",
-  "main": "/src/App.js",
+  "main": "/src/App.jsx",
   "files": [
     "src/**/*"
   ],
@@ -47,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "dependencies": {
+    "@lcmconsultoria/componente-servicios": "^0.0.1"
   }
 }
